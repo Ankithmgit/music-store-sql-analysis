@@ -53,3 +53,18 @@ The SQL analysis includes:
 
 ## 📁 Project Structure
 
+Music-Store-SQL-Analysis/
+│
+├── README.md
+│   ── Project overview, objectives, schema explanation, and insights
+│
+├── Music_store_Analysis_SQL_Project.sql
+│   ── Contains all SQL queries used for analysis
+│
+├── data/
+│   ── Dataset files used in the project
+│
+├── report/
+       └── SQL_Project_report_MUSICSTORE_DB.pptx
+        ── Presentation containing results and business insights
+
